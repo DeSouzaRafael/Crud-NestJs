@@ -25,7 +25,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-I am using sqlite with the database for this project
+I am using using TypeORM with Nest Js to integrate the database with our application.
 
 ## Running the app
 
